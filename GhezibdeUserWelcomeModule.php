@@ -212,8 +212,8 @@ class GhezibdeUserWelcomeModule extends AbstractModule implements ModuleBlockInt
         return [
             'My Ghezibde'            => 'Mon Ghezibde',
             'My ancestors'           => 'Mes ancêtres',
-            'My fan tree'            => 'Mon arbre en éventail',
-            'My individual record'   => 'Ma fiche individuelle',
+            'My fan tree'            => 'Mon éventail',
+            'My individual record'   => 'Ma fiche',
             'Welcome %s'             => 'Bienvenue %s',
         ];
     }
