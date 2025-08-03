@@ -9,7 +9,7 @@ This module sets customized useful links for a Ghezibde user:
 
 ## Installation
 
-Download the [latest release](https://https://github.com/cdewaele/ghezibde-user-welcome-module/releases/latest).
+Download the [latest release](https://github.com/cdewaele/ghezibde-user-welcome-module/releases/latest).
 Unzip the package into your webtrees/modules_v4 directory of your web server.
 
 In control panel: 
